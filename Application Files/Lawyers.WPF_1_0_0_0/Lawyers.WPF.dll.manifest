@@ -59,232 +59,232 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>TCPJehVNkp7HPgDnF1WZWFZKPv8ukC3IWylLBn44UW0=</dsig:DigestValue>
+      <dsig:DigestValue>lt0Hs1xOFr5vwtbe8CE+dPezqOyPWXF1BAbotbs4ljM=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Lawyers.Common.dll" size="10752">
+  <file name="Lawyers.Common.dll" size="11264">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>T7NQcPo4TSnwHg1r+em1yODpiBo5r9KRcOdZwJLY7eE=</dsig:DigestValue>
+      <dsig:DigestValue>NIPvpXrBDPxOhEHgzi+EGky1uiVn4CfasxQcMGjbnV8=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Lawyers.Data.dll" size="2676224">
+  <file name="Lawyers.Data.dll" size="2687488">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>ZjsIjsBBVHztx4KuTbzAO6ZXtYDoDmd1M9TT5MwB0Zs=</dsig:DigestValue>
+      <dsig:DigestValue>yl9fqhHcZKSF+GBkUYv5BCrEhAH4HUo3j6Z0RmJeRr4=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Lawyers.Entities.dll" size="67072">
+  <file name="Lawyers.Entities.dll" size="69632">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>gz8/9TRo+AUakrIsGPh3b8Mw7lW0ufYs8hulSM9m3GY=</dsig:DigestValue>
+      <dsig:DigestValue>gyIX+3tMU9J2a2O78GTaT/IHGD3qg4AS0cnt3OAlR/0=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Lawyers.Services.dll" size="227328">
+  <file name="Lawyers.Services.dll" size="245760">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>EmRMrpZIUGpP58wZB3dupwMMRbNfovCPJUW0zEA7Ue4=</dsig:DigestValue>
+      <dsig:DigestValue>7NJVnwixndtS84TgntjvOtF03fZidCYyA4luo0bGDh0=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Lawyers.WPF.deps.json" size="152754">
+  <file name="Lawyers.WPF.deps.json" size="152542">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>aL3LJyXcVyLmxUbUebvi/JG95OK3BQMYTcZJ6d8VYB0=</dsig:DigestValue>
+      <dsig:DigestValue>wUNmbjh15HIMXqdOtsm0ss7ckKJg7zXqjJnChdWSz50=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Lawyers.WPF.dll" size="3853824">
+  <file name="Lawyers.WPF.dll" size="4044800">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>la8ULL/GRjocFSb9Bi8C6GIRBuMRNITLaIjhZ3I1O0c=</dsig:DigestValue>
+      <dsig:DigestValue>ipmBFlPiWWdI2JqrqqyY4fr0Df6X8VpnRyA6m7tQUj4=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Lawyers.WPF.exe" size="99328">
+  <file name="Lawyers.WPF.exe" size="125440">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>AwQeTBGJm/JFaDIfjK31CY4p/flMUwFFyGY7d2YA968=</dsig:DigestValue>
+      <dsig:DigestValue>oo69lm6c37/ZBnVA3wTqb0LH0bGgEfiUHodIlqJmYSk=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Lawyers.WPF.runtimeconfig.json" size="382">
+  <file name="Lawyers.WPF.runtimeconfig.json" size="274">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>EI/ipM5+uQBxluKNIgAMRbWkFIZJ0YVOwb7uJux0r4k=</dsig:DigestValue>
+      <dsig:DigestValue>1z0WbtLDZWDnTM0QZ2c7wXyIHVcOCTlN3V7w/9PZ6KQ=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Laywers.PACICardLibrary.dll" size="2765312">
+  <file name="Laywers.PACICardLibrary.dll" size="2768896">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>meiRNUxcyGBa7rDkl1oZdCAH4kDyNxQSL0siLAMe4fs=</dsig:DigestValue>
+      <dsig:DigestValue>vhnGXsAkooRYqvknyYu+2EdLaEBPHBTrIe1mNwSz/lQ=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Microsoft.Data.SqlClient.SNI.dll" size="497016">
+  <file name="Microsoft.Data.SqlClient.SNI.dll" size="549240">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>5OVK8KFhaRyp8M0T/MHr0A+dyH45VKfsrj13rMFVnkE=</dsig:DigestValue>
+      <dsig:DigestValue>D/9ZSzuRrA2K0/QHaj0ZL+nr6gV3gJzpicX9cJB6Iwo=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Microsoft.Data.SqlClient.SNI.pdb" size="691200">
+  <file name="Microsoft.Data.SqlClient.SNI.pdb" size="592896">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>MIp0rHgGodkfiNfwJjZIgxJ8bTj5JbtGLzaNuLE9qfY=</dsig:DigestValue>
+      <dsig:DigestValue>rA+CAzH/Wa1ssVYq7L3BM6BgDcbUsy1x8dHBGtumEDE=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Reports\Cards\LawyerCard_female.rdlc" size="803681">
+  <file name="Reports\Cards\LawyerCard_female.rdlc" size="804939">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>7/6dOL9aP8/tVDDcDN7xhjdbPL4UngaiOJg9KtMglvQ=</dsig:DigestValue>
+      <dsig:DigestValue>nokkYzLlsXYbuCxlJYnTE8G5gKMlMiZJ7a2pflzpiiU=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Reports\Cards\LawyerCard_male.rdlc" size="803677">
+  <file name="Reports\Cards\LawyerCard_male.rdlc" size="804935">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>VRDEfTw6jJvRSG4Ao9S3R+qnv0ODbJeNCfgcOjGawAo=</dsig:DigestValue>
+      <dsig:DigestValue>JT3Tssq93GYHdudqiUU/5dgoE7NMybLutQlpPcb3bro=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Reports\LawyersAddressRepo.rdlc" size="67255">
+  <file name="Reports\LawyersAddressRepo.rdlc" size="68394">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>G9KeHUEwtHvnPvCHYFWjkSa5wVcJadOwaxAYcCGInrg=</dsig:DigestValue>
+      <dsig:DigestValue>5ujl4xeZXMLaBOgQQ+pmvgjS6zAm2neuiwr9TW734xE=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Reports\LawyersAndCivilIdsRepo.rdlc" size="57497">
+  <file name="Reports\LawyersAndCivilIdsRepo.rdlc" size="58429">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>VLtuo37rU4KInmHPn23xbAwwmUNndemtd/RRxeIwugs=</dsig:DigestValue>
+      <dsig:DigestValue>OH3+acsfkAz6jlvIna/Kbb0Iv1bRkH/izNZUC1uoAcQ=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Reports\LawyersAndPhonesRepo.rdlc" size="52239">
+  <file name="Reports\LawyersAndPhonesRepo.rdlc" size="53057">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>/UM7XnKiW3Nkv3vmVyjrlirp3M7xeLHVxfhJUIt6xSs=</dsig:DigestValue>
+      <dsig:DigestValue>76aAmrrDFHSwmxT/0jqNpbtEXe55hUHN+tieGwEuCy0=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Reports\LawyersGradesPhonesRepo.rdlc" size="72557">
+  <file name="Reports\LawyersGradesPhonesRepo.rdlc" size="73811">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>TIXV9l9U2lNThLCU20EDTKFeg/HmI1TD5ZTa6rwmtr4=</dsig:DigestValue>
+      <dsig:DigestValue>ZKXCCRU7RRsbwp+bdju0fVmj00+hF80Audbi0bfTwy0=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Reports\LawyersGradesRepo.rdlc" size="56606">
+  <file name="Reports\LawyersGradesRepo.rdlc" size="57514">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>rwu4rhJd7In5v7JOK6KVo4omN9mzrjbCzEGymEMQ4UU=</dsig:DigestValue>
+      <dsig:DigestValue>L5nA/0K2V3DDaZkSKa/WOIZZoxJdSJPIztlDfEPeSSI=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Reports\LawyersRepo.rdlc" size="45807">
+  <file name="Reports\LawyersRepo.rdlc" size="46483">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>0zlsMGolEOttlJWjtY0SpnojuGaAcfzuz/7oHMEk+94=</dsig:DigestValue>
+      <dsig:DigestValue>RRq+HnQKDUSTqi1klLTq8+0rjIFFLSnWEc2VzgZ+EiY=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Reports\OfficeLawyersGradesPhonesRepo.rdlc" size="69377">
+  <file name="Reports\OfficeLawyersGradesPhonesRepo.rdlc" size="70518">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>jqjOskuZ+d/ChT3FDgh2bRSxoAFIm+e9OinqrKLoLto=</dsig:DigestValue>
+      <dsig:DigestValue>CxNgmGO/3/QXW7HacET2asx/xvVCMSW6BZ+DccQFCrc=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Reports\OfficeNamesRepo.rdlc" size="68813">
+  <file name="Reports\OfficeNamesRepo.rdlc" size="69949">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>qS2Z28RC1Im93K5gbPCOpfM39f6Km1i2DnEDbe9kxf0=</dsig:DigestValue>
+      <dsig:DigestValue>zHCJzMiEGPs0aQJ8Yeni+4D9W/Xt9dCi4p1vAvY++ls=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Reports\OfficesLawyersRepo.rdlc" size="69009">
+  <file name="Reports\OfficesLawyersRepo.rdlc" size="70149">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>6LUNrsgFaxnacnyRqHMCqEvHBbk5fCm8jq4OS33hvMo=</dsig:DigestValue>
+      <dsig:DigestValue>5A0Icb5NOQgob7gZTRO/raPWLxFh/zhxgTvm4CvYaXs=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Reports\StickersRepo.rdlc" size="34648">
+  <file name="Reports\StickersRepo.rdlc" size="35023">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>6G31+ZSzMYcLGEXRvtvHcPzhVuzeRncEUzL+oC5/f4k=</dsig:DigestValue>
+      <dsig:DigestValue>Q8sqNTjRVIKzLyTbew658akZaQ0S8GsjtHhupkiZPxk=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="sni.dll" size="136488">
+  <file name="sni.dll" size="160040">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>FEbWsm2kmlqfNmly+J9OI2+RaVXzHdw467liF8HKzpw=</dsig:DigestValue>
+      <dsig:DigestValue>aHBcTvmrgY8pVqeOBfP+/OUBoUSHk7BztGEQvrSbR9Y=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="WebServiceClient.dll" size="19968">
+  <file name="WebServiceClient.dll" size="20992">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>s/4IdjOqBoUffHyKxo2nQthilaeJQaSpS+IPfu98GXg=</dsig:DigestValue>
+      <dsig:DigestValue>cEtyBo1y/zSG6/AavgVcr1tiLVMJG+UCfJqqe6uErc0=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>

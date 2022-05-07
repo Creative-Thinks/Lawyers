@@ -4,15 +4,12 @@
     "includedFrameworks": [
       {
         "name": "Microsoft.NETCore.App",
-        "version": "5.0.16"
+        "version": "5.0.0"
       },
       {
         "name": "Microsoft.WindowsDesktop.App",
-        "version": "5.0.16"
+        "version": "5.0.0"
       }
-    ],
-    "configProperties": {
-      "System.Reflection.Metadata.MetadataUpdater.IsSupported": false
-    }
+    ]
   }
 }
